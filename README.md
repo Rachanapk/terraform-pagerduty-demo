@@ -10,7 +10,7 @@ Example repository to manage PagerDuty with Terraform and GitHub Actions, using 
 * PAGERDUTY_TOKEN
 * GOOGLE_CREDENTIALS (Insert entire content of Service Account JSON key into the secret)
 
-## Usage
+## Usage of this code
 #### PR Creation
 Terraform will run init, fmt, validate and plan. Results of the plan will be set as a comment on the PR.
 #### Master Merge
