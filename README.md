@@ -16,7 +16,7 @@ Terraform will run init, fmt, validate and plan. Results of the plan will be set
 #### Master Merge
 Terraform will run init, validate and apply. Output will print integration keys if you've chaned/added any.
 
-## Managing existing PagerDuty setup via Terraform
+### Managing existing PagerDuty setup via Terraform
 I highly recommend playing with [API Reference](https://developer.pagerduty.com/api-reference/) to understand all the moving parts of your existing setup and then importing those with terraform.
 
 e.g. of importing an existing user:
