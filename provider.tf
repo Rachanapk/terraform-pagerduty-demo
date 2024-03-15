@@ -5,7 +5,7 @@ provider "pagerduty" {
 
 terraform {
   backend "gcs" {
-    bucket = "some-gcs-bucket-for-state"
+    bucket = "tfstate-project-bucket"
     prefix = "gcp"
   }
 }
