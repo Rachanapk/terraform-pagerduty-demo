@@ -1,17 +1,17 @@
 users = {
 
   "alice" = {
-    name  = "Alice"
+    name  = "Alice Jacob"
     email = "alice@cognizant.com"
     role  = "user"
   },
   "bob" = {
-    name  = "Bob"
+    name  = "Bob Brown"
     email = "bob@cognizant.com"
     role  = "user"
   },
   "mary" = {
-    name  = "Mary"
+    name  = "Mary White"
     email = "mary@cognizant.com"
     role  = "admin"
   }
